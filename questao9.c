@@ -1,3 +1,13 @@
+/*
+
+Questão 9 – Primeira prova  
+Matéria: Matemática Discreta 2  
+Professora: Cristiane Loesch  
+Aluno: Lucas Gabriel Gomes Aguiar  
+Matrícula: 232004506  
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
